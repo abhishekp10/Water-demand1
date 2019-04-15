@@ -17,6 +17,7 @@ trait SparkBootcamp { // A trait can be compared to a Java Interface
     // https://logging.apache.org/log4j/2.x/manual/customloglevels.html
 
     example.testExample()
+    example.testStream()
     //example.rddExample()
     //example.dataFrameExample()
     //example.dataSetExample()
